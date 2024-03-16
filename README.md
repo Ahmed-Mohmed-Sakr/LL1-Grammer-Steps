@@ -1,6 +1,7 @@
 # LL1-Grammer-Steps
 
-S->ABc
-A->bA
-A->$
-B->c
+### Example: 
+- S -> ABc
+- A -> bA
+- A -> ε
+- B -> c
